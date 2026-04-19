@@ -130,3 +130,5 @@ When `build-scan-push` goes green, your image is live on Docker Hub at
 ```
 
 Good luck! 
+
+<img width="343" height="193" alt="image" src="https://github.com/user-attachments/assets/b98eb5cf-e82b-4dfd-8902-bcc31c594969" />
